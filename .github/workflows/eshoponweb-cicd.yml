@@ -9,8 +9,7 @@ env:
   LOCATION: westeurope
   TEMPLATE-FILE: .azure/bicep/webapp.bicep
   SUBSCRIPTION-ID: c08fe616-0840-4e12-8c67-2ae8fb518b43
-  WEBAPP-NAME: az400-web-markieaz400
-
+  WEBAPP-NAME: az400webmarkieaz400
 
 jobs:
   #Build, test and publish .net web project in repository
